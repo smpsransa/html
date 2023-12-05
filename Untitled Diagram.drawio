@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T04:44:50.937Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="khnL766AYNW4q4pHIgPE" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T04:45:40.279Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1b838EC_Lr5eTmzEaPV1" version="22.1.5" type="github">
   <diagram name="Page-1" id="Qou-vyrPSm1an-S4Ps3j">
     <mxGraphModel dx="758" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,19 +61,19 @@
         <mxCell id="ahE1HmWSlkf-c5fxpPrb-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahE1HmWSlkf-c5fxpPrb-18" target="ahE1HmWSlkf-c5fxpPrb-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ahE1HmWSlkf-c5fxpPrb-18" value="membangun alat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ahE1HmWSlkf-c5fxpPrb-18" value="belajar&lt;br&gt;membangun alat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ahE1HmWSlkf-c5fxpPrb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahE1HmWSlkf-c5fxpPrb-19" target="ahE1HmWSlkf-c5fxpPrb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ahE1HmWSlkf-c5fxpPrb-19" value="merancang desain berbasis aplikasi modeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ahE1HmWSlkf-c5fxpPrb-19" value="belajar merancang berbasis aplikasi modeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ahE1HmWSlkf-c5fxpPrb-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahE1HmWSlkf-c5fxpPrb-20" target="ahE1HmWSlkf-c5fxpPrb-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ahE1HmWSlkf-c5fxpPrb-20" value="mengokohkan nilai seni dan estetika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ahE1HmWSlkf-c5fxpPrb-20" value="mengasah nilai seni dan estetika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ahE1HmWSlkf-c5fxpPrb-21" value="display produk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
